@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skioulis
 - 👀 I’m interested in learning to code again 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and c#
 - 📫 You can always reach me via email: skioulis@gmail.com
 
 <!---
